@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java
 - 📫 Reach me hsivov@students.softuni.bg
 
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsivov&layout=compact&hide_border=true" /> | <img src="https://github-readme-stats.vercel.app/api?username=hsivov&hide_border=true&show_icons=true" /> |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsivov&layout=compact&hide_border=true&theme=transparent" /> | <img src="https://github-readme-stats.vercel.app/api?username=hsivov&hide_border=true&show_icons=true&theme=transparent" /> |
 |---|---|
 
 ## My Skills
