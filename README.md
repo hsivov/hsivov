@@ -19,7 +19,7 @@ I'm a passionate developer with experience in various technologies and a strong 
 
 ## 📌 Pinned Repositories
 
-[![Awesome Project](https://github-readme-stats.vercel.app/api/pin/?username=hsivov&repo=GameStore-MVC)]([https://github.com/hsivov/GameStore-MVC](https://github.com/hsivov/GameStore-MVC))
+[![Awesome Project](https://github-readme-stats.vercel.app/api/pin/?username=hsivov&repo=GameStore-MVC)](https://github.com/hsivov/GameStore-MVC)
 
 ## 📫 Connect with Me
 
